@@ -3,6 +3,7 @@
 This is a Spotify-inspired web player UI, built with HTML & CSS. It features a sidebar, music cards, a sticky navigation bar, and a responsive music player section.
 
 📌 Features
+
 ✔️ Modern UI - Clean and sleek design inspired by Spotify
 
 ✔️ Responsive Layout - Adapts to different screen sizes
