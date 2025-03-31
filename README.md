@@ -15,6 +15,7 @@ This is a Spotify-inspired web player UI, built with HTML & CSS. It features a s
 
 
 🛠️ Tech Stack
+
 HTML for structure
 
 CSS for styling
@@ -22,8 +23,12 @@ CSS for styling
 Font Awesome for icons
 
 📷 Preview
+
+
 ![Screenshot 2025-03-31 124941](https://github.com/user-attachments/assets/823c40c5-619e-4d5e-ba2c-6da87fe6f287)
 
 
 🤝 Contributing
+
+
 Feel free to fork this repo and improve it! Suggestions and PRs are welcome.
